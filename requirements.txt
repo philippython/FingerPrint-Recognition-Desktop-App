@@ -1,0 +1,6 @@
+pyotp
+python-u2flib-server
+ua-parser
+user-agents
+python-jose
+fido2==1.0.0
